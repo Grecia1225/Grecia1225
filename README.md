@@ -44,10 +44,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grecia1225&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grecia1225&layout=compact&theme=dark&title_color=E63946" height="165"/>
-</p>
