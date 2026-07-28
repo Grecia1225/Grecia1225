@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Grecia </h1>
 
 <p align="center">
-  CSE-AI Student · Exploring Machine Learning & AI
+  Computer Science student specializing in AI
 </p>
 
 <p align="center">
