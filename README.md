@@ -13,7 +13,7 @@
 ### 📌 Featured Projects
 
 <!-- Replace with your actual best repos + real one-line descriptions -->
-- **[Project Name](repo-link)** — one-line description of what it does and the impact/result
+- **[SchemeSathi](https://github.com/Grecia1225/Savishkar_Hackathon)** — a bilingual (English/Hindi) web app that matches citizens to government welfare schemes they're eligible for, based on age, income, category, and occupation. [Live demo →](https://schemesathi-islz.onrender.com)
 - **[Project Name](repo-link)** — one-line description of what it does and the impact/result
 - **[Project Name](repo-link)** — one-line description of what it does and the impact/result
 
