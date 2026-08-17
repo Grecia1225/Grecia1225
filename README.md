@@ -20,6 +20,12 @@
 
 ---
 
+### 🔭 Currently
+
+**Working on:** small machine learning projects to build on the NLP work I've already done (BERT, scikit-learn)
+**Learning:** deep learning fundamentals and exploring more of the AI/ML space
+
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
