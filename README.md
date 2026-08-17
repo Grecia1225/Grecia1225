@@ -20,14 +20,6 @@
 
 ---
 
-### 🔭 Currently
-
-**Working on:** a small ML project to predict [X]
-**Learning:** [concept/library you're picking up right now]
-**Next goal:** [a specific, real target — internship, certification, project]
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
