@@ -1,48 +1,75 @@
-<h1 align="center">Hello, I'm Grecia </h1>
+ <h1 align="center">Hey, I'm Grecia 👋</h1>
 
 <p align="center">
-  Computer Science student specializing in AI
+  Computer Science Student specializing in Artificial Intelligence
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/grecia007/">LinkedIn</a> · thellagrecia@gmail.com
+  <a href="https://www.linkedin.com/in/grecia007/">LinkedIn</a> ·
+  <a href="mailto:thellagrecia@gmail.com">Email</a> ·
+  <a href="https://github.com/Grecia1225">GitHub</a>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🏆 Featured Projects
 
-<!-- Replace with your actual best repos + real one-line descriptions -->
-- **[SchemeSathi](https://github.com/Grecia1225/Savishkar_Hackathon)** — a bilingual (English/Hindi) web app that matches citizens to government welfare schemes they're eligible for, based on age, income, category, and occupation. [Live demo →](https://schemesathi-islz.onrender.com)
-- **[NLP Projects](https://github.com/Grecia1225/NLP-Projects)** — two NLP projects comparing approaches: a fake news classifier (TF-IDF + Logistic Regression, 98.89% accuracy) and a BERT-based tweet sentiment analyzer (73% accuracy, in line with published benchmarks).
-- **[Automated OMR Evaluation System](https://github.com/Grecia1225/omr-evaluation-system)** — a computer vision system that scores OMR answer sheets from phone photos using OpenCV, with subject-wise scoring and a Streamlit dashboard. [Live demo →](https://omr-evaluation-system-hehvqqqvzmvdnypmb2ez8q.streamlit.app/)
-- **[Marine Trade Connect](https://github.com/Grecia1225/MiniProjectAndroidApp)** — a cross-platform Flutter app connecting marine product sellers, buyers, and shippers with real-time chat, shipment tracking, and 5-language voice support. Built with Firebase; fully tested (32/32 unit + integration tests passing).
+**🛡️ CyberShield — URL Phishing Detector** · 🏆 Hackathon-Winning Project
+
+A Python and Flask-based web application that analyzes URLs using heuristic-based detection to identify potential phishing threats.
+
+[Repository →](https://github.com/Grecia1225/CyberShield_URL_Phishing_Detector)
+
+**🌊 Marine Trade Connect**
+
+A Flutter and Firebase application connecting marine product buyers, sellers, and shippers, with marketplace features, communication, and shipment management.
+
+[Repository →](https://github.com/Grecia1225/MiniProjectAndroidApp)
+
+**🔋 EV Battery Passport**
+
+A digital battery-traceability concept focused on battery identity, health information, lifecycle history, and transparency for the electric vehicle ecosystem.
+
+[Live Demo →](https://ind-ev-battery-passport.netlify.app/)
 
 ---
 
 ### 🔭 Currently
 
-**Working on:** small machine learning projects to build on the NLP work I've already done (BERT, scikit-learn)
-**Learning:** deep learning fundamentals and exploring more of the AI/ML space
+- **Exploring:** Artificial Intelligence, Machine Learning, and LLMs
+- **Building:** Practical software applications and AI-driven solutions
+- **Interested in:** Research, problem-solving, and developing technology with real-world impact
 
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-E63946?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-E63946?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-E63946?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-E63946?style=flat&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-E63946?style=flat&logo=scikit-learn&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-E63946?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-E63946?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-E63946?style=flat&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E63946?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-E63946?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E63946?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-E63946?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-E63946?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flutter-E63946?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-E63946?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/scikit--learn-E63946?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-E63946?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-E63946?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Pandas-E63946?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-E63946?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/JavaScript-E63946?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-E63946?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-E63946?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Grecia1225&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grecia1225&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and turning ideas into technology. 🚀</i>
+</p>
