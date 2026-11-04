@@ -46,17 +46,24 @@ A digital battery-traceability concept focused on battery identity, health infor
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-E63946?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-E63946?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Flutter-E63946?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Firebase-E63946?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Java-E63946?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-E63946?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-E63946?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-E63946?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-E63946?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NumPy-E63946?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-E63946?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-E63946?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-E63946?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Hugging_Face-E63946?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Pandas-E63946?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-E63946?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/JavaScript-E63946?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-E63946?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-E63946?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/NLP-E63946?style=flat" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLMs-E63946?style=flat" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-E63946?style=flat" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Flask-E63946?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flutter-E63946?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-E63946?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Figma-E63946?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-E63946?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
