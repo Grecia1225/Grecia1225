@@ -96,15 +96,6 @@ I draw, sing, play guitar and shoot photos, and I run a small side project of ha
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Grecia1225&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grecia1225&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center">
   <i>Great things take time. Never quit. 🚀</i>
 </p>
